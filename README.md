@@ -1,4 +1,4 @@
 # Hi there 👋
 
 - 🌱 I’m currently learning **all about AWS!**
-- 👨‍💻 Here's my personal website: [howardchen.ca](https://www.howardchen.ca)
+- 👨‍💻 Here's my personal website: [howardchen.ca](http://www.howardchen.ca)
