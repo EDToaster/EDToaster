@@ -13,3 +13,7 @@
 [![Downloads](https://cf.way2muchnoise.eu/title/570050.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/little-logistics)
 [![Downloads](https://cf.way2muchnoise.eu/full_570050_downloads.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/little-logistics)
 [![Downloads](https://cf.way2muchnoise.eu/versions/570050.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/little-logistics)
+
+### [Little Contraptions](https://github.com/EDToaster/LittleContraptions)
+
+*Work in progress!*
