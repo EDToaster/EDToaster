@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning **all about AWS!**
 - 👨‍💻 Here's my personal website: [howardchen.ca](http://www.howardchen.ca)
 - ⛏️ I also dabble in some Minecraft modding!
+- [![pgp key](https://img.shields.io/badge/gpg-0x1C4196D44BA8CD7D-313131?style=flat-square&labelColor=32a84e&color=313131)](https://github.com/EDToaster.gpg)
 
 ### [Beehive Tooltips](https://github.com/EDToaster/beehive-tooltips)
 [![Downloads](https://cf.way2muchnoise.eu/title/376753.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/beehivetooltips)
