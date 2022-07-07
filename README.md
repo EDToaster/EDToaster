@@ -22,3 +22,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EDToaster&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="EDToaster"/>
+
+# Things to check out
+- [ ] [Software defined haptic input knob](https://www.youtube.com/watch?v=ip641WmY4pA)
+- [ ] [Floppotron](https://www.youtube.com/watch?v=kCCXRerqaJI)
