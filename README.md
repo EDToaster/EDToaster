@@ -26,3 +26,5 @@
 # Things to check out
 - [ ] [Software defined haptic input knob](https://www.youtube.com/watch?v=ip641WmY4pA)
 - [ ] [Floppotron](https://www.youtube.com/watch?v=kCCXRerqaJI)
+- [ ] Revisit [ToastCPU](https://github.com/EDToaster/ToastCPU)
+- [ ] Check out [Google efabless Open Shuttle Program](https://efabless.com/open_shuttle_program)
