@@ -29,3 +29,4 @@
 - [x] Revisit [ToastCPU](https://github.com/EDToaster/ToastCPU)
 - [ ] Check out [Google efabless Open Shuttle Program](https://efabless.com/open_shuttle_program)
 - [ ] [Neutralinojs](https://neutralino.js.org/)
+- [ ] IMDB race solver
