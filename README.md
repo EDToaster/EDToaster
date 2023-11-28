@@ -31,3 +31,4 @@
 - [ ] Check out [Google efabless Open Shuttle Program](https://efabless.com/open_shuttle_program)
 - [ ] [Neutralinojs](https://neutralino.js.org/)
 - [ ] Relay computer simluator
+- [ ] spade-lang.org
