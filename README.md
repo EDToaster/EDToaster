@@ -32,3 +32,4 @@
 - [ ] [Neutralinojs](https://neutralino.js.org/)
 - [ ] Relay computer simluator
 - [ ] spade-lang.org
+- [ ] Minecraft [Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=HPqGaIMVuLs)
